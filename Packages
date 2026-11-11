@@ -29,3 +29,19 @@ Size: 2629140
 MD5sum: 05de3776974453985c8280a118b362f1
 SHA1: 375a9c04b5ed442bd1e6cffae81ac0c1c93ced6a
 SHA256: e827502795703a8ddaa469d771715fd42223b93ab8501aaaeff7699e3389b05a
+
+Package: jp.niconico6.legacy
+Name: niconico6 for 旧niconicoアプリ
+Description: 旧 niconico アプリ（6.41）を現在のニコニコ動画で動かすための tweak（開発中）
+Maintainer: niconico6
+Author: niconico6
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.5.30
+Installed-Size: 4820
+Filename: debs/jp.niconico6.legacy_0.5.30_iphoneos-arm.deb
+Size: 2631960
+MD5sum: 65064701d4f4e047b5815d386e4510ab
+SHA1: 6bcb524725d5905403dbbe932da069f262d2777e
+SHA256: cc71dcabf9d0b69da657922c2cf71e24b0a384b6da39d71c0b13248e04774761
