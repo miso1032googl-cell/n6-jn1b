@@ -45,3 +45,20 @@ Size: 2631960
 MD5sum: 65064701d4f4e047b5815d386e4510ab
 SHA1: 6bcb524725d5905403dbbe932da069f262d2777e
 SHA256: cc71dcabf9d0b69da657922c2cf71e24b0a384b6da39d71c0b13248e04774761
+
+Package: jp.niconico6.legacy
+Name: niconico6
+Description: Brings back niconico on iOS 6 with the old niconico app 6.41 (video, live, comments).
+Depiction: http://n6.misonosaba.net/depiction/jp.niconico6.legacy.html
+Maintainer: niconico6
+Author: niconico6
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.5.31
+Installed-Size: 4820
+Filename: debs/jp.niconico6.legacy_0.5.31_iphoneos-arm.deb
+Size: 2631926
+MD5sum: 667b6c4628afffb7b10a5235193f6ca6
+SHA1: ecc275c849048b7688f07e434177fc263377f71d
+SHA256: 3624f622dc1c703cec10c5f407de6d64fe43ac9fa4534b6c81434089a0fe6747
