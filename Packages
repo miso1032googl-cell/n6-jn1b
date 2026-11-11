@@ -1,0 +1,15 @@
+Package: jp.niconico6.legacy
+Name: niconico6 for 旧niconicoアプリ
+Description: 旧 niconico アプリ（6.41）を現在のニコニコ動画で動かすための tweak（開発中）
+Maintainer: niconico6
+Author: niconico6
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.5.27
+Installed-Size: 4820
+Filename: debs/jp.niconico6.legacy_0.5.27_iphoneos-arm.deb
+Size: 2633308
+MD5sum: 29d728ea352cea36e200dff141bae8e8
+SHA1: dc40578da9beab6358576878f65761ad27755063
+SHA256: 0903da545bb00cb14a7b69c9197baa7005c6b76d29b99a78f4af4b1a32b98352

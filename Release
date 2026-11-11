@@ -1,0 +1,21 @@
+Origin: niconico6
+Label: niconico6
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: niconico6 (iOS 6 で今のニコニコを見るための tweak)
+Date: Wed, 11 Nov 2026 17:42:51 UTC
+MD5Sum:
+ 4c1d4e6a43584861d7b373d0f817bb8c 567 Packages
+ f2ba5900ddbf3b736c73cf870c6e7721 465 Packages.bz2
+ 6010f7c017df2d5c97c00c6b1d134cf2 433 Packages.gz
+SHA1:
+ 3933bc76c2e5b38ee0fe73fa8b2634d72a8a58d1 567 Packages
+ 3b5249f25b36f6ea828746c76a0dac685ad2efba 465 Packages.bz2
+ 3dabaa228dcf06c47757adec99409b1079780415 433 Packages.gz
+SHA256:
+ 5ea5d54dc50235f936d03171b197f6065dc56ff808ee24e36c0a3bf57a36019c 567 Packages
+ d9a72c1466b3a578a38c4a978dabd75dd0bfe22245a9a91dc30fac51e84ed5e3 465 Packages.bz2
+ ddfd71d36d5655007c7680332a5fda5d5ad00a89847ca2a334c879aa554feda0 433 Packages.gz
