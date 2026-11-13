@@ -1,3 +1,19 @@
+Package: jp.niconico6.emoji
+Name: niconico6 新しい絵文字
+Description: Adds newer emoji (Twemoji, CC-BY 4.0) to the iOS 6 emoji font on this device. Uninstall restores the original font.
+Maintainer: niconico6
+Author: niconico6
+Depiction: http://n6.misonosaba.net/depiction/jp.niconico6.emoji.html
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.0
+Installed-Size: 11548
+Filename: debs/jp.niconico6.emoji_1.0.0_iphoneos-arm.deb
+Size: 5678778
+MD5sum: 0e187ad047a3ce7f0fa26a72991f687c
+SHA1: 1458262bbeba6bb29ed33df481705a449580f7e2
+SHA256: 91c4a72660ea38211bcaa64480466884ce5cf0440c8147b353bf45a399eebf15
+
 Package: jp.niconico6.legacy
 Name: niconico6
 Description: Brings back niconico on iOS 6 with the old niconico app 6.41 (video, live, comments).
@@ -7,10 +23,10 @@ Author: niconico6
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Version: 0.5.31
-Installed-Size: 4820
-Filename: debs/jp.niconico6.legacy_0.5.31_iphoneos-arm.deb
-Size: 2631926
-MD5sum: 667b6c4628afffb7b10a5235193f6ca6
-SHA1: ecc275c849048b7688f07e434177fc263377f71d
-SHA256: 3624f622dc1c703cec10c5f407de6d64fe43ac9fa4534b6c81434089a0fe6747
+Version: 0.5.63
+Installed-Size: 4888
+Filename: debs/jp.niconico6.legacy_0.5.63_iphoneos-arm.deb
+Size: 2670024
+MD5sum: 67092412a242d2db480306e06e628f38
+SHA1: 8ad83f31ee17b14f4740d965e0d50340332ed732
+SHA256: 209f9fb6715141cf8a21c9b413ecfbfc430e7adbab26af2eeafdfd9fa09b0ea6

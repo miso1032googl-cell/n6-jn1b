@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: niconico6 (iOS 6 で今のニコニコを見るための tweak)
-Date: Wed, 11 Nov 2026 22:10:08 UTC
+Date: Fri, 13 Nov 2026 10:04:29 UTC
 MD5Sum:
- 479ea5f128431dc161ad638a6fce0d27 594 Packages
- c2dc35d75737792157a72b4c22d33ea9 438 Packages.bz2
- e1e4876df1ca7bcea9b69a8661dfacfc 398 Packages.gz
+ a9c2f9ec05fbc7ab35e2b2fc14d1ffac 1209 Packages
+ 12ba20a9c6c4d0c37d874a6e849750e8 746 Packages.bz2
+ fdeeac5e35eb60a587b5eb402eb156b3 651 Packages.gz
 SHA1:
- b1d8f9ff690bc38beec90c2fca807d587dd0fff1 594 Packages
- cd7d2af4e876c508addd61a93c4cc243b43e581d 438 Packages.bz2
- 341c11661b8456e689758da5909aab1e5f270096 398 Packages.gz
+ febfac4e15bde34b7e8b91ec5cd07ac8c3307597 1209 Packages
+ 9bb7d5a2fb9a27af2716b4209656a0fe9b202a1b 746 Packages.bz2
+ aea1c78ce1b25b70d0611971ffb1c5dfc48d56f1 651 Packages.gz
 SHA256:
- c5ebf761cea12acadaad4adaa9f67b7863482846503c01c3a2890b616ee574df 594 Packages
- a6da0434cdf218b574a69ce0e43357078476408a4d5957990ca95269ce577ed1 438 Packages.bz2
- f5a0fdb789f87d862ef4570ffd5af3805ae7594ee702710e28ca58feb4235d30 398 Packages.gz
+ 789197b72c5c433581ed97ddd1322a56278704ab7a50fa8856ed7d617278beb7 1209 Packages
+ f2b6e832e9819c925cb82c7cc0919607582980ed7f358b90ea46ed76d7ea952f 746 Packages.bz2
+ d1d98d78ec81834a27d7fadce09349996d423f3ee3db15a893c0b84dfc76c070 651 Packages.gz
